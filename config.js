@@ -1,5 +1,5 @@
 const disableSetup = false;
-var topBarCenterText = `VA3HDL - FN04ga`;
+var topBarCenterText = `VK3 - QF22`;
 
 // Grid layout
 var layout_cols = 4;
@@ -86,7 +86,7 @@ var aIMG = [
     "LIGHTNING LOCAL",
     "https://www.blitzortung.org/en/Images/image_b_ny.png",
   ],
-  ["YOUTUBE EXAMPLE", "iframe|https://www.youtube.com/embed/fzPFaXAV_2Y?autoplay=1&mute=1"],
+  ["HamClock", "iframe|https://vk3.us.kg"],
   [
     "WEBSITE EXAMPLE",
     "iframe|https://globe.adsbexchange.com/?airport=YYZ",
