@@ -1,4 +1,4 @@
-const disableSetup = true;
+const disableSetup = false;
 var topBarCenterText = `VK3 - QF22`;
 
 // Grid layout
