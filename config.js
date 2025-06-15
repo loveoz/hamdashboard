@@ -1,5 +1,5 @@
-const disableSetup = false;
-var topBarCenterText = `VK3 - QF22mb`;
+const disableSetup = true;
+var topBarCenterText = `VK3 - QF22`;
 
 // Grid layout
 var layout_cols = 4;
@@ -10,7 +10,7 @@ var layout_rows = 3;
 // The values are [color code, menu text, target link, scale factor, side],
 // add new lines following the structure for extra menu options. The comma at the end is important!
 var aURL = [
-  ["2196F3", "CLUBLOG", "https://clublog.org/livestream/VK1A", "1.7"],
+  ["2196F3", "Hamclock", "https://hamclock.ozoz.eu.org:8443/live.html", "1.7"],
   [
     "2196F3",
     "CONTEST",
@@ -20,12 +20,12 @@ var aURL = [
   ["2196F3", "DX CLUSTER", "https://dxcluster.ha8tks.hu/map/", "1"],
   [
     "2196F3",
-    "LIGHTNING",
-    "https://map.blitzortung.org/#5.87/-36.285/144.769",
+    "CLUSTER",
+    "https://holycluster.iarc.org/",
     "1",
     "R",
   ],
-  ["2196F3", "PISTAR", "http://pi-star.local/", "1.2"],
+  ["2196F3", "VIC EMERGENCY", "https://www.emergency.vic.gov.au/respond/", "1.2"],
   [
     "2196F3",
     "Windy",
@@ -57,22 +57,22 @@ var aURL = [
 // You can't add more items because there are only 12 placeholders on the dashboard
 // but you can replace the titles and the images with anything you want.
 var aIMG = [
-  ["RADAR", "https://radar.weather.gov/ridge/standard/CONUS_loop.gif"],
+  ["MUFD", "https://prop.kc2g.com/renders/current/mufd-normal-now.svg"],
   [
-    "LOCAL RADAR",
-    "https://radar.weather.gov/ridge/standard/KNQA_loop.gif",
+    "F0F2",
+    "https://prop.kc2g.com/renders/current/fof2-normal-now.svg",
   ],
   [
     "NOAA D-RAP",
     "https://services.swpc.noaa.gov/images/animations/d-rap/global/d-rap/latest.png",
   ],
   [
-    "ISS POSITION",
+    "ISS",
     "https://www.heavens-above.com/orbitdisplay.aspx?icon=iss&width=600&height=300&mode=M&satid=25544",
   ],
   [
-    "SATELLITE CAN",
-    "https://cdn.star.nesdis.noaa.gov/GOES16/GLM/SECTOR/can/EXTENT3/GOES16-CAN-EXTENT3-1125x560.gif",
+    "RS-44",
+    "https://www.heavens-above.com/orbitdisplay.aspx?icon=default&width=600&height=300&mode=M&satid=44909",
   ],
   [
     "SATELLITE CGL",
@@ -80,20 +80,20 @@ var aIMG = [
   ],
   [
     "LIGHTNING",
-    "https://images.lightningmaps.org/blitzortung/america/index.php?animation=usa",
+    "https://images.lightningmaps.org/blitzortung/oceania/index.php?animation=australia",
   ],
   [
-    "LIGHTNING LOCAL",
-    "https://www.blitzortung.org/en/Images/image_b_ny.png",
+    "SYNOPTIC",
+    "https://data.weatherzone.com.au/map-builder/synoptic/au/synoptic-au-1280x720.jpg",
   ],
-  ["YOUTUBE EXAMPLE", "iframe|https://www.youtube.com/embed/fzPFaXAV_2Y?autoplay=1&mute=1"],
+  ["SOLAR", "iframe|https://services.swpc.noaa.gov/images/swx-overview-small.gif"],
   [
     "WEBSITE EXAMPLE",
-    "iframe|https://globe.adsbexchange.com/?airport=YYZ",
+    "https://services.swpc.noaa.gov/images/animations/ovation/south/latest.jpg",
   ],
-  ["VIDEO EXAMPLE", "https://himawari8.nict.go.jp/movie/720/20240611_pifd.mp4"],
+  ["AURORA NORTH", "https://services.swpc.noaa.gov/images/animations/ovation/north/latest.jpg"],
   ["HF PROPAGATION",
-    "https://www.hamqsl.com/solar101vhf.php"],
+    "https://www.hamqsl.com/solarbc.php"],
 ];
 
 // Image rotation intervals in milliseconds per tile - If the line below is commented, all tiles will be rotated every 30000 milliseconds (30s)
@@ -106,6 +106,6 @@ var tileDelay = [
 // RSS feed items
 // Structure is [feed URL, refresh interval in minutes]
 var aRSS = [
-  ["https://www.amsat.org/feed/", 60],           // Example RSS feed, refresh every 60 minutes
-  ["https://daily.hamweekly.com/atom.xml", 120], // Example Atom feed, refresh every 120 minutes
+  ["  ", 1200],           // Example RSS feed, refresh every 60 minutes
+  ["  ", 1200], // Example Atom feed, refresh every 120 minutes
   ];
