@@ -1,5 +1,5 @@
 const disableSetup = true;
-var topBarCenterText = `VK3 - QF22`;
+var topBarCenterText = `VK3-QF22`;
 
 // Grid layout
 var layout_cols = 4;
@@ -67,16 +67,16 @@ var aIMG = [
     "https://services.swpc.noaa.gov/images/animations/d-rap/global/d-rap/latest.png",
   ],
   [
-    "ISS",
-    "https://www.heavens-above.com/orbitdisplay.aspx?icon=iss&width=600&height=300&mode=M&satid=25544",
+    "HamClock",
+    "iframe|https://hamclock.ozoz.eu.org:8443/live.html",
   ],
   [
-    "RS-44",
+    "SATELLITE RS-44",
     "https://www.heavens-above.com/orbitdisplay.aspx?icon=default&width=600&height=300&mode=M&satid=44909",
   ],
   [
-    "SATELLITE CGL",
-    "https://cdn.star.nesdis.noaa.gov/GOES16/GLM/SECTOR/cgl/EXTENT3/GOES16-CGL-EXTENT3-600x600.gif",
+    "SATELLITE ISS",
+    "https://www.heavens-above.com/orbitdisplay.aspx?icon=iss&width=600&height=300&mode=M&satid=25544",
   ],
   [
     "LIGHTNING",
@@ -86,12 +86,12 @@ var aIMG = [
     "SYNOPTIC",
     "https://data.weatherzone.com.au/map-builder/synoptic/au/synoptic-au-1280x720.jpg",
   ],
-  ["SOLAR", "iframe|https://services.swpc.noaa.gov/images/swx-overview-small.gif"],
+  ["SOLAR", "https://services.swpc.noaa.gov/images/swx-overview-small.gif"],
   [
-    "WEBSITE EXAMPLE",
+    "AURORA South",
     "https://services.swpc.noaa.gov/images/animations/ovation/south/latest.jpg",
   ],
-  ["AURORA NORTH", "https://services.swpc.noaa.gov/images/animations/ovation/north/latest.jpg"],
+  ["AURORA North", "https://services.swpc.noaa.gov/images/animations/ovation/north/latest.jpg"],
   ["HF PROPAGATION",
     "https://www.hamqsl.com/solarbc.php"],
 ];
