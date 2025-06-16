@@ -28,7 +28,9 @@ var aURL = [
 // You can't add more items because there are only 12 placeholders on the dashboard
 // but you can replace the titles and the images with anything you want.
 var aIMG = [
-  ["MUFD", "https://prop.kc2g.com/renders/current/mufd-normal-now.svg"],
+  [
+    "MUFD", "https://prop.kc2g.com/renders/current/mufd-normal-now.svg",
+  ],
   [
     "F0F2",
     "https://prop.kc2g.com/renders/current/fof2-normal-now.svg",
@@ -38,8 +40,7 @@ var aIMG = [
     "https://services.swpc.noaa.gov/images/animations/d-rap/global/d-rap/latest.png",
   ],
   [
-    "HamClock",
-    "iframe|https://hamclock.ozoz.eu.org:8443/live.html",
+    "SOLAR", "https://services.swpc.noaa.gov/images/swx-overview-small.gif",
   ],
   [
     "SATELLITE RS-44",
@@ -57,14 +58,21 @@ var aIMG = [
     "SYNOPTIC",
     "https://data.weatherzone.com.au/map-builder/synoptic/au/synoptic-au-1280x720.jpg",
   ],
-  ["SOLAR", "https://services.swpc.noaa.gov/images/swx-overview-small.gif"],
+  [
+    "HamClock",
+    "iframe|https://hamclock.ozoz.eu.org:8443/live.html",
+  ],
+  [
+    "Solar Wind",
+    "https://services.swpc.noaa.gov/images/animations/enlil/latest.jpg",
+  ],
+  [
+    "AURORA North", "https://services.swpc.noaa.gov/images/animations/ovation/north/latest.jpg",
+  ],
   [
     "AURORA South",
     "https://services.swpc.noaa.gov/images/animations/ovation/south/latest.jpg",
   ],
-  ["AURORA North", "https://services.swpc.noaa.gov/images/animations/ovation/north/latest.jpg"],
-  ["HF PROPAGATION",
-    "https://www.hamqsl.com/solarbc.php"],
 ];
 
 // Image rotation intervals in milliseconds per tile - If the line below is commented, all tiles will be rotated every 30000 milliseconds (30s)
