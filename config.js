@@ -13,7 +13,7 @@ var aURL = [
   ["2196F3", "Hamclock", "https://hamclock.ozoz.eu.org:8443/live.html", "1"],
   ["2196F3", "CONTEST", "https://contest.run/#/", "1",],
   ["2196F3", "DX CLUSTER", "https://dxcluster.ha8tks.hu/map/", "1"],
-  ["2196F3", "CLUSTER", "https://holycluster.iarc.org/", "1", "R"],
+  ["2196F3", "Holy CLUSTER", "https://holycluster.iarc.org/", "1", "R"],
   ["2196F3", "VIC EMERGENCY", "https://www.emergency.vic.gov.au/respond/", "1"],
   ["2196F3", "Windy", "https://windy.app/map/#c=-38.2231,145.16252&z=10", "1", "R"],
   ["2196F3", "TIME.IS", "https://time.is/", "1", "R"],
