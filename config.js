@@ -58,13 +58,13 @@ var aIMG = [
     "SYNOPTIC",
     "https://data.weatherzone.com.au/map-builder/synoptic/au/synoptic-au-1280x720.jpg",
   ],
-  [
-    "HamClock",
-    "iframe|https://hamclock.ozoz.eu.org:8443/live.html",
+  [    
+    "Solar Wind Prediction",
+    "https://services.swpc.noaa.gov/images/animations/enlil/latest.jpg",
   ],
   [
-    "Solar Wind",
-    "https://services.swpc.noaa.gov/images/animations/enlil/latest.jpg",
+    "Solar Wind ACE MAG",
+    "https://services.swpc.noaa.gov/images/ace-mag-swepam-24-hour.gif",
   ],
   [
     "AURORA North", "https://services.swpc.noaa.gov/images/animations/ovation/north/latest.jpg",
