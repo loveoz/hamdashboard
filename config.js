@@ -42,22 +42,6 @@ var aIMG = [
   [
     "SOLAR", "https://services.swpc.noaa.gov/images/swx-overview-small.gif",
   ],
-  [
-    "SATELLITE RS-44",
-    "https://www.heavens-above.com/orbitdisplay.aspx?icon=default&width=600&height=300&mode=M&satid=44909",
-  ],
-  [
-    "SATELLITE ISS",
-    "https://www.heavens-above.com/orbitdisplay.aspx?icon=iss&width=600&height=300&mode=M&satid=25544",
-  ],
-  [
-    "LIGHTNING",
-    "https://images.lightningmaps.org/blitzortung/oceania/index.php?animation=australia",
-  ],
-  [
-    "SYNOPTIC",
-    "https://data.weatherzone.com.au/map-builder/synoptic/au/synoptic-au-1280x720.jpg",
-  ],
   [    
     "Solar Wind Prediction",
     "https://services.swpc.noaa.gov/images/animations/enlil/latest.jpg",
@@ -67,7 +51,24 @@ var aIMG = [
     "https://services.swpc.noaa.gov/images/ace-mag-swepam-24-hour.gif",
   ],
   [
-    "AURORA North", "https://services.swpc.noaa.gov/images/animations/ovation/north/latest.jpg",
+    "LIGHTNING",
+    "https://images.lightningmaps.org/blitzortung/oceania/index.php?animation=australia",
+  ],
+  [
+    "SYNOPTIC",
+    "https://data.weatherzone.com.au/map-builder/synoptic/au/synoptic-au-1280x720.jpg",
+  ],
+  [
+    "SATELLITE RS-44",
+    "https://www.heavens-above.com/orbitdisplay.aspx?icon=default&width=600&height=300&mode=M&satid=44909",
+  ],
+  [
+    "SATELLITE ISS",
+    "https://www.heavens-above.com/orbitdisplay.aspx?icon=iss&width=600&height=300&mode=M&satid=25544",
+  ],
+  [
+     "AURORA North", 
+     "https://services.swpc.noaa.gov/images/animations/ovation/north/latest.jpg",
   ],
   [
     "AURORA South",
