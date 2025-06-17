@@ -72,7 +72,7 @@ var aIMG = [
   ],
   [
     "HF Propagation",
-    "https://www.hamqsl.com/solar.html",
+    "https://www.hamqsl.com/solar101vhf.php",
   ],
 ];
 
