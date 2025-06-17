@@ -59,20 +59,20 @@ var aIMG = [
     "https://data.weatherzone.com.au/map-builder/synoptic/au/synoptic-au-1280x720.jpg",
   ],
   [
-    "SATELLITE RS-44",
-    "https://www.heavens-above.com/orbitdisplay.aspx?icon=default&width=600&height=300&mode=M&satid=44909",
+    "10m",
+    "https://img.propagation.dr2w.de/australia/10M/dr2w_animation_10M.gif",
   ],
   [
-    "SATELLITE ISS",
-    "https://www.heavens-above.com/orbitdisplay.aspx?icon=iss&width=600&height=300&mode=M&satid=25544",
+    "15m",
+    "https://img.propagation.dr2w.de/australia/15M/dr2w_animation_15M.gif",
   ],
   [
-     "AURORA North", 
-     "https://services.swpc.noaa.gov/images/animations/ovation/north/latest.jpg",
+     "20m", 
+     "https://img.propagation.dr2w.de/australia/20M/dr2w_animation_20M.gif",
   ],
   [
-    "AURORA South",
-    "https://services.swpc.noaa.gov/images/animations/ovation/south/latest.jpg",
+    "HF Propagation",
+    "https://www.hamqsl.com/solar.html",
   ],
 ];
 
