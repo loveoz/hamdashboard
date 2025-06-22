@@ -20,7 +20,7 @@ var aURL = [
   ["2196F3", "Windy", "https://windy.app/map/#c=-38.2231,145.16252&z=10", "1", "R"],
   ["2196F3", "TIME.IS", "https://time.is/", "1", "R"],
   ["2196F3", "WEATHER", "https://openweathermap.org/weathermap?basemap=map&cities=true&layer=temperature&lat=-38.3158&lon=145.6952&zoom=8", "1", "R"],
-  ["2196F3", "WINDS", "https://earth.nullschool.net/zh-cn/#current/wind/surface/level/orthographic=-214.72,-38.26,31560/loc=145.618,-38.397", "1", "R"],
+  ["2196F3", "WINDS", "https://earth.nullschool.net/#current/wind/surface/level/grid=on/equirectangular=-221.62,-29.01,1276/loc=144.946,-37.878", "1", "R"],
 ];
 
 // Dashboard items
