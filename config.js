@@ -49,6 +49,10 @@ var aIMG = [
     "HAP Mel",
     "https://www.sws.bom.gov.au/Images/HF%20Systems/Australasia/HAP%20Charts/Melbourne.gif",
   ],
+  [
+    "NOAA D-RAP",
+    "https://services.swpc.noaa.gov/images/animations/d-rap/global/d-rap/latest.png",
+  ],
   [    
     "Solar Wind Prediction",
     "https://services.swpc.noaa.gov/images/animations/enlil/latest.jpg",
@@ -56,10 +60,6 @@ var aIMG = [
   [
     "Solar Wind ACE MAG",
     "https://services.swpc.noaa.gov/images/ace-mag-swepam-24-hour.gif",
-  ],
-   [
-    "NOAA D-RAP",
-    "https://services.swpc.noaa.gov/images/animations/d-rap/global/d-rap/latest.png",
   ],
   [
     "SYNOPTIC",
