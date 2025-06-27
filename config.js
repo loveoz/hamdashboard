@@ -33,7 +33,6 @@ var aURL = [
 // You can't add more items because there are only 12 placeholders on the dashboard
 // but you can replace the titles and the images with anything you want.
 var aIMG = [
-  #1
   [
     "HAP Mel",
     "https://www.sws.bom.gov.au/Images/HF%20Systems/Australasia/HAP%20Charts/Melbourne.gif",
@@ -50,7 +49,6 @@ var aIMG = [
     "SYNOPTIC",
     "https://data.weatherzone.com.au/map-builder/synoptic/au/synoptic-au-1280x720.jpg",
   ],
-  #2
   [
     "SOLAR",
     "https://services.swpc.noaa.gov/images/swx-overview-small.gif",
@@ -68,7 +66,6 @@ var aIMG = [
     "NOAA D-RAP",
     "https://services.swpc.noaa.gov/images/animations/d-rap/global/d-rap/latest.png",
   ],
-  #3
   [
     "HF Propagation",
     "https://www.hamqsl.com/solar101vhf.php",
@@ -85,7 +82,6 @@ var aIMG = [
      "20m", 
      "https://img.propagation.dr2w.de/australia/20M/dr2w_animation_20M.gif",
   ],
-  
 ];
 
 // Image rotation intervals in milliseconds per tile - If the line below is commented, all tiles will be rotated every 30000 milliseconds (30s)
