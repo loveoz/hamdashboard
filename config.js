@@ -34,10 +34,6 @@ var aURL = [
 // but you can replace the titles and the images with anything you want.
 var aIMG = [
   [
-    "HAP Mel",
-    "https://www.sws.bom.gov.au/Images/HF%20Systems/Australasia/HAP%20Charts/Melbourne.gif",
-  ],
-  [
     "MUFD",
     "https://prop.kc2g.com/renders/current/mufd-normal-now.svg",
   ],
@@ -46,14 +42,13 @@ var aIMG = [
     "https://prop.kc2g.com/renders/current/fof2-normal-now.svg",
   ],
   [
-    "SYNOPTIC",
-    "https://data.weatherzone.com.au/map-builder/synoptic/au/synoptic-au-1280x720.jpg",
-  ],
-  [
     "SOLAR",
     "https://services.swpc.noaa.gov/images/swx-overview-small.gif",
   ],
-  
+  [
+    "HAP Mel",
+    "https://www.sws.bom.gov.au/Images/HF%20Systems/Australasia/HAP%20Charts/Melbourne.gif",
+  ],
   [    
     "Solar Wind Prediction",
     "https://services.swpc.noaa.gov/images/animations/enlil/latest.jpg",
@@ -65,6 +60,10 @@ var aIMG = [
    [
     "NOAA D-RAP",
     "https://services.swpc.noaa.gov/images/animations/d-rap/global/d-rap/latest.png",
+  ],
+  [
+    "SYNOPTIC",
+    "https://data.weatherzone.com.au/map-builder/synoptic/au/synoptic-au-1280x720.jpg",
   ],
   [
     "HF Propagation",
