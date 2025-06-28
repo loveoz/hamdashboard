@@ -50,6 +50,22 @@ var aIMG = [
     "https://www.sws.bom.gov.au/Images/HF%20Systems/Australasia/HAP%20Charts/Melbourne.gif",
   ],
   [
+    "10m",
+    "https://img.propagation.dr2w.de/australia/10M/dr2w_animation_10M.gif",
+  ],
+  [
+    "15m",
+    "https://img.propagation.dr2w.de/australia/15M/dr2w_animation_15M.gif",
+  ],
+  [
+     "20m", 
+     "https://img.propagation.dr2w.de/australia/20M/dr2w_animation_20M.gif",
+  ],
+  [
+    "HF Propagation",
+    "https://www.hamqsl.com/solar101vhf.php",
+  ],
+  [
     "NOAA D-RAP",
     "https://services.swpc.noaa.gov/images/animations/d-rap/global/d-rap/latest.png",
   ],
@@ -64,22 +80,6 @@ var aIMG = [
   [
     "SYNOPTIC",
     "https://data.weatherzone.com.au/map-builder/synoptic/au/synoptic-au-1280x720.jpg",
-  ],
-  [
-    "HF Propagation",
-    "https://www.hamqsl.com/solar101vhf.php",
-  ],
-  [
-    "10m",
-    "https://img.propagation.dr2w.de/australia/10M/dr2w_animation_10M.gif",
-  ],
-  [
-    "15m",
-    "https://img.propagation.dr2w.de/australia/15M/dr2w_animation_15M.gif",
-  ],
-  [
-     "20m", 
-     "https://img.propagation.dr2w.de/australia/20M/dr2w_animation_20M.gif",
   ],
 ];
 
