@@ -17,7 +17,7 @@ var aURL = [
   ["2196F3", "DX SUMMIT", "http://dxsummit.fi/#/", "1",],
   ["2196F3", "DX HEAT", "https://dxheat.com/dxc/", "1"],
   ["2196F3", "Solar", "https://solar.w5mmw.net/", "1"],
-  ["2196F3", "Prop Quest", "https://propquest.co.uk/graphs.php?type=archive", "1"], 
+  ["2196F3", "Prop Quest", "https://www.propquest.co.uk/graphs.php?type=live", "1"], 
   ["2196F3", "Prop Info", "https://hf.dxview.org/perspective/QF22mb", "1"], 
   ["2196F3", "Holy CLUSTER", "https://holycluster.iarc.org/", "1"],
   ["2196F3", "Windy", "https://windy.app/map/#c=-38.2231,145.16252&z=10", "1", "R"],
