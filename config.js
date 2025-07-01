@@ -10,7 +10,7 @@ var layout_rows = 3;
 // The values are [color code, menu text, target link, scale factor, side],
 // add new lines following the structure for extra menu options. The comma at the end is important!
 var aURL = [
-  ["2196F3", "Hamclock", "https://hamclock.ozcn.eu.org/live.html", "1"],
+  ["2196F3", "Hamclock", "https://vkccclock.ozcn.eu.org/live.html", "1"],
   ["2196F3", "CONTEST", "https://contest.run/#/", "1",],
   ["2196F3", "RBN", "https://reversebeacon.net/main.php?zoom=1.07,149.44,2.00&rows=100&spotters=1&max_age=5,hours&spotted_call=vk&hide=distance_mi", "1",],
   ["2196F3", "DX CLUSTER", "https://dxcluster.ha8tks.hu/map/", "1"],
